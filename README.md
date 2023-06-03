@@ -15,7 +15,7 @@
   <!-- <a href="" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="" height="40" width="40" /></a> -->
   <a href="https://twitter.com/bryanchze" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="bryanchze" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/bryan-cheng-hengze" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="bryan-cheng-hengze" height="40" width="40" />   </a>
-  <a href="https://stackoverflow.com/users/22013180" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question- and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="22013180" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22013180" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="22013180" height="40" width="40" /></a>
   <!-- <a href="https://kaggle.com/" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="" height="40" width="40" /></a> -->
   <!-- <a href="https://fb.com/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" alt="" height="40" width="40" /></a> -->
   <!-- <a href="https://instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="" height="40" width="40" /></a> -->
