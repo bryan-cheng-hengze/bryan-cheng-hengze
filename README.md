@@ -8,8 +8,8 @@
 <br>
 <br>
 <br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<!-- <h3 align="center">Connect with me:</h3> -->
+<!-- <p align="center"> -->
   <!-- <a href="" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="" height="40" width="40" /></a> -->
 <!--   <a href="https://twitter.com/bryanchze" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="bryanchze" height="40" width="40" /></a> -->
 <!--   <a href="https://linkedin.com/in/bryan-cheng-hengze" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="bryan-cheng-hengze" height="40" width="40" />   </a> -->
@@ -23,7 +23,7 @@
 <!--   <a href="https://www.leetcode.com/bryan-cheng-hengze" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="bryan-cheng-hengze" height="40" width="40" /></a> -->
   <!-- <a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="" height="40" width="40" /></a> -->
   <!-- <a href="https://auth.geeksforgeeks.org/user/" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="" height="40" width="40" /></a> -->
-</p>
+<!-- </p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
