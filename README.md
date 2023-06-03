@@ -39,6 +39,8 @@
 <!--   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a>  -->
   <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="50" height="50"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"/> </a> 
+  <a href="https://www.automationanywhere.com/" target="_blank"> <img src="https://www.automationanywhere.com/sites/default/files/images/default-images/logo-aa-new.svg" alt="AA" width="50" height="50"/> </a> 
 
 
 
