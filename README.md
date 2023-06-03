@@ -40,8 +40,10 @@
   <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="50" height="50"/> </a> 
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"/> </a> 
-  <a href="https://www.automationanywhere.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1135531319679545349/vvd-voet_400x400.png" alt="Automation Anywhere" width="50" height="50"/> </a> 
-  <a href="https://www.haskell.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="Haskell" width="50" height="50"/> </a> 
+  <a href="https://www.automationanywhere.com/" target="_blank"> <img src="https://play-lh.googleusercontent.com/jvRx-7QyuuCSA_-18tqVinY2LAWmseDyF5cKJuWOQh3YIHKzinqIzYi4O34I_K_LtA" alt="Automation Anywhere" width="50" height="50"/> </a> 
+  <a href="https://www.haskell.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="Haskell" width="50" height="50"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" height="50"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://firebearstudio.com/blog/wp-content/uploads/2015/02/Best-Django-Python-CMS-2015.png" alt="Django" width="50" height="50"/> </a>
 
 
 
