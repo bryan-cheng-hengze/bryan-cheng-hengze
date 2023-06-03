@@ -38,7 +38,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> 
 <!--   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a>  -->
   <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
-  <a href="https://www.php.net/" target="_blank"> <img src="https://icons8.com/icon/XNQU0Xcm2I9s/php" alt="php" width="50" height="50"/> </a> 
+  <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/images/logos/new-php-logo.png" alt="php" width="50" height="50"/> </a> 
 
 
 
