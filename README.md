@@ -1,5 +1,5 @@
-<h1 align="left">Hi there 👋, I'm Bryan</h1>
-<h3 align="left">Software Developer | Data Analyst | Machine Learning Engineer</h3>
+<h1 align="center">Bryan Cheng Hengze</h1>
+<h2 align="center">Software Developer | Data Analyst | Machine Learning Engineer</h2>
 ### 
 [In-progress]
 
