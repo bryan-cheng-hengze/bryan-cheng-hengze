@@ -1,5 +1,6 @@
-## Hi there 👋, my name is Bryan
-### Software Developer | Data Analyst | Machine Learning Engineer
+<h1 align="left">Hi there 👋, I'm Bryan</h1>
+<h3 align="left">Software Developer | Data Analyst | Machine Learning Engineer</h3>
+### 
 [In-progress]
 
 - 🔭 I’m currently working on this page. 
