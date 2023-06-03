@@ -38,8 +38,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a> 
 <!--   <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/> </a>  -->
   <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
-<!--   <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/postgreesql.png" alt="postgresql" width="50" height="50"/> </a>  -->
-<!--   <a href="https://neo4j.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-neo4j-a-graph-database-management-system-developed-logo-shadow-tal-revivo.png" alt="python" width="50" height="50"/> </a> </p> -->
+  <a href="https://www.php.net/" target="_blank"> <img src="https://icons8.com/icon/XNQU0Xcm2I9s/php" alt="php" width="50" height="50"/> </a> 
+
 
 
 
