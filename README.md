@@ -6,7 +6,6 @@ A driven and ambitious software developer, passionate about pushing the boundari
 I am eager to connect with like-minded professionals, exchange ideas, and contribute to meaningful projects. Let's collaborate, learn, and build the future together. Reach out to me through the contact information provided—I look forward to connecting with you!
 
 <br>
-<br>
 <!-- <h3 align="center">Connect with me:</h3> -->
 <!-- <p align="center"> -->
   <!-- <a href="" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="" height="40" width="40" /></a> -->
