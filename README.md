@@ -7,8 +7,6 @@ I am eager to connect with like-minded professionals, exchange ideas, and contri
 
 <br>
 <br>
-<br>
-<br>
 <!-- <h3 align="center">Connect with me:</h3> -->
 <!-- <p align="center"> -->
   <!-- <a href="" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="" height="40" width="40" /></a> -->
