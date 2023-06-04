@@ -7,10 +7,6 @@ I am eager to connect with like-minded professionals, exchange ideas, and contri
 
 <br>
 <br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
 <br>
 <br>
 <!-- <h3 align="center">Connect with me:</h3> -->
@@ -51,7 +47,10 @@ I am eager to connect with like-minded professionals, exchange ideas, and contri
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://firebearstudio.com/blog/wp-content/uploads/2015/02/Best-Django-Python-CMS-2015.png" alt="Django" width="50" height="50"/> </a>
 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bryan-cheng-hengze/count.svg" />
+</p>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/bryan-cheng-hengze)   -->
 
