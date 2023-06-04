@@ -7,6 +7,10 @@ I am eager to connect with like-minded professionals, exchange ideas, and contri
 
 <br>
 <br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 <br>
 <br>
 <!-- <h3 align="center">Connect with me:</h3> -->
