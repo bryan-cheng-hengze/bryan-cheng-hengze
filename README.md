@@ -48,7 +48,7 @@ I am eager to connect with like-minded professionals, exchange ideas, and contri
 
 
 <p align="center"> 
-  Visitor count<br>
+  <h3 align="center">Visitor count</h3><br>
   <img src="https://profile-counter.glitch.me/bryan-cheng-hengze/count.svg" />
 </p>
 
