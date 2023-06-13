@@ -42,7 +42,9 @@ I am eager to connect with like-minded professionals, exchange ideas, and contri
   <a href="https://www.haskell.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="Haskell" width="50" height="50"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" height="50"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://firebearstudio.com/blog/wp-content/uploads/2015/02/Best-Django-Python-CMS-2015.png" alt="Django" width="50" height="50"/> </a>
-
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="50" height="50"/> </a>
+  
+  
 <h3 align="center">Visitor count:</h3>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/bryan-cheng-hengze/count.svg" />
